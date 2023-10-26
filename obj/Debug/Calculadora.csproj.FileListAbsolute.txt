@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\pedro\source\repos\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\pedro\source\repos\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\pedro\source\repos\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\pedro\source\repos\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Calculadora\obj\Debug\Calculadora.pdb
